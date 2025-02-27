@@ -1,4 +1,4 @@
-# rl-algorithms
+# reinforcement-learning
 Python projects from the Reinforcement Learning and Dynamic Optimization course.
 
 - [Assignment 1: Implementation of a Modified UCB Algorithm for a Multi-Armed Bandit Problem](./modified-ucb-mab)
